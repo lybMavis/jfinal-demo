@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jfinalweb:war">
+    <output-path>$PROJECT_DIR$/jfinalweb/target</output-path>
+    <root id="archive" name="jfinal-web.war">
+      <element id="artifact" artifact-name="jfinalweb:war exploded" />
+    </root>
+  </artifact>
+</component>
